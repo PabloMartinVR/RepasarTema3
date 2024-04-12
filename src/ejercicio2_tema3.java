@@ -20,5 +20,7 @@ public class ejercicio2_tema3 {
         boolean loes     = texto.startsWith("Estoy"); // startsWith se utiliza para comprobar si es verdadero que las palabras del inicio coincide con lo que hay entre comillas del Star witch.
         System.out.println(loes);
 
+        System.out.println("Un print hecho solo para otra cosa de clase de entornos");
+
     }
 }
